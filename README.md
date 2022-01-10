@@ -5,6 +5,14 @@
 
 * Internship Duration - 1 Month ( January-2022 )
 
+# Task 1 : Prediction using Supervised Machine Learning
+
+* Predict the percentage of an student based on the no. of study hours
+
+* This is a simple linear regression task as it involves just 2 variables 
+
+* Dataset: http://bit.ly/w-data
+
 # Task 3 : Exploratory Data Analysis - Retail
 
 * Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
